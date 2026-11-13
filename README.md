@@ -332,7 +332,7 @@ By completing this project, you will learn:
 
 **Dharsha**
 
-First-year Computer Science student specialising in Cyber Security, exploring AI, Vector Databases, RAG, and Machine Learning through hands-on projects.
+Second-year Computer Science student specialising in Cyber Security, exploring AI, Vector Databases, RAG, and Machine Learning through hands-on projects.
 
 ---
 
