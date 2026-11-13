@@ -330,7 +330,7 @@ By completing this project, you will learn:
 
 ## 👨‍💻 Author
 
-**Dharsha**
+**Dharshan D**
 
 Second-year Computer Science student specialising in Cyber Security, exploring AI, Vector Databases, RAG, and Machine Learning through hands-on projects.
 
